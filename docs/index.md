@@ -49,7 +49,7 @@ This course introduces students to the creation, use, and visualization of data 
 
 * This semester will be a lot. Go easy on yourself, your classmates, and your instructor. We are all trying to make the best of a situation that no one anticipated or asked for. 
 * I thought carefully about how to conduct this class. The digital work we will do in this class lends itself to virtual instruction perhaps more than other courses. We will be sharing screens, using breakout rooms, and working collaboratively online. These are skills that you can take with you later in life. But please let me know what is working or not working for you!
-* That being said, you will feel overwhelmed by technology and grow weary of screens. Give yourself a break! 
+* That being said, you will feel overwhelmed by technology and grow weary of screens. Give yourself a break! Go outside, run up and down the stairs a few times, look at some art, the mountains, pictures of your pet. Walk around the block without your phone. Hydrate.  
 * The virtual environment does make communication harder. You might not feel comfortable speaking up or be able to stay after class. I might not be able to "read the room" as effectively as usual. Please, please reach out whenever you have questions, be it via Zoom, chat, email, or a call. I am happy to send you a Zoom link to chat. I will be on campus sometimes and can meet you with in person.
 
 
@@ -70,7 +70,11 @@ You will be provided with a domain from [Reclaim Hosting](https://reclaimhosting
 
 Washington and Lee University makes reasonable academic accommodations for qualified students with disabilities. All undergraduate accommodations must be approved through the Title IX Coordinator and Director of Disability Resources, Elrod Commons 212 \(540\) 458-4055. Students requesting accommodations for this course should present an official accommodation letter within the first two weeks of the term and schedule a meeting outside of class time to discuss accommodations. It is the student’s responsibility to present this paperwork in a timely fashion and to follow up about accommodation arrangements. Accommodations for test-taking must be arranged with the professor at least a week before the date of the test or exam, including finals.
 
-## Plagiarism
+### Attendance
+
+You may notice that I do not factor in attendance and participation into your grade. This is on purpose. I try to design my classes so that you can't *not* participate. Class sessions are structured to help you advance your learning, not just for you to receive content. If you miss a lot of class, it will affect your grade because you aren't learning what you need to learn to fulfill assignments, not because I've docked a point. But life happens and sometimes you need a day or two. Or a pandemic happens and we all need a break. I expect that you'll talk to me about these instances and take responsibility for catching up on what you've missed. I will not plan to record our classes unless you let me know in advance that you'll be missing class and would like a recording. 
+
+### Plagiarism
 
 All writing should be your own or should be cited properly. The writing assignments in this course are different than what is required in other courses, so we will discuss proper citation procedures for writing for the Web, writing in a group, and writing technical documentation. For more info: [http://libguides.wlu.edu/plagiarism](http://libguides.wlu.edu/plagiarism)
 
