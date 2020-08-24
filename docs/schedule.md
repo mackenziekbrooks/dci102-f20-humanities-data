@@ -79,12 +79,13 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 	- To help us conceptualize humanities data projects, let's look at a few more projects and the accompanying reviews. Scholarly articles and books are typically reviewed by other experts in the field. There are established procedures and venues for this kind of work, however DH projects do not always fit into those procedures. [Reviews in DH](https://reviewsindh.pubpub.org) is a new publication that "bridges the gap" by providing reviews of projects. For this blog post, you will explore and write about a project **before** reading the accompanying review, then read the review and see how your analysis lines up. 
 	- First, take a look at the [Review Content](https://reviewsindh.pubpub.org/review-process). 
 	- Next, select a project to review. The projects on this list have been selected to fit with the content of this course. Remember, don't read the review until you've written about the project yourself! 
-		- Project | Project Review
-		- Project | Project Review
-		- Project | Project Review
-		- Project | Project Review
+		- [The (De)collected War of the Worlds](https://decollected.net/) | [Project Review](https://reviewsindh.pubpub.org/pub/decollected-war-of-the-worlds/release/3)
+		- [Borderlands Archives Cartography](https://www.bacartography.org/) | [Project Review](https://reviewsindh.pubpub.org/pub/borderlands-archives-cartography/release/3)
+		- [Chicana/o Activism in the Southern Plains Through Time and Space](https://plainsmovement.com/) | [Project Review](https://reviewsindh.pubpub.org/pub/chicana-activism-in-the-southern-plains/release/13)
+		- [Ticha](https://ticha.haverford.edu/en/) | [Project Review](https://reviewsindh.pubpub.org/pub/ticha/release/14)
+		- [Lansing Urban Renewal](http://projects.leadr.msu.edu/lansingurbanrenewal/home) | [Project Review](https://reviewsindh.pubpub.org/pub/lansing-urban-renewal-project/release/2)
 	- Write 200-300 on the project, using the *Reviews in DH* guidelines. Remember, you are not an expert yet, so you may not be able to address all aspects of the project.
-	- Now ready the accompanying review. What did you learn? How did it compare to your review? Write another 200-300 words on the differences in your reviews and the new concepts or approaches you learned. This blog is about process and learning! You are not expected to know everything already! I want to see how you are engaging with new material. 
+	- Now read the accompanying review. What did you learn? How did it compare to your review? Write another 200-300 words on the differences in your reviews and the new concepts or approaches you learned. This blog is about process and learning! You are not expected to know everything already! I want to see how you are engaging with new material. 
 
 # Week 3 - Data
 
@@ -152,27 +153,30 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 * Class agenda:
 	* icebreaker:
 	* Activity 5.1 in breakout rooms (4:40-5:20)
-	* 
+	* Talk about research blog post 
 
+**For Thursday**
+Prepare for [Activity 5.2](../network-analysis/#activity-52)
 
 ## Thursday, September 24, 2020
 * Read the first few sections of the [Process](../process/#picking-a-topic) chapter again.
 * Class agenda:
 	* icebreaker:
 	* Activity 5.2
-	* Talk about blog post 
+	* Activity 5.3
+
 
 ## Activity log week 5
 
 **Due Monday 9/28 at 9am**
 
-1. Spend some more time with the data and networks of Activity 5.2 Upload one to your website with 150-300 words on what worked and what didn't. What else do you need to know about the people in this network? How would you find out? 
-2. Blog post #5: Let's continue practicing our skills reviewing established projects. In 400-500 words, write a review of one of the following projects using the criteria from Reviews in DH. 
-	* [Kindred Britain](http://kindred.stanford.edu/#)
-	* [Belfast Group Poetry](https://belfastgroup.digitalscholarship.emory.edu/)
-	* [Six Degrees of Francis Bacon](http://sixdegreesoffrancisbacon.com/)
-	* [Linked Jazz](https://linkedjazz.org/)
-	* [Viral Texts](https://viraltexts.org/)
+1. Spend some more time with the data and networks of [Activity 5.3](../network-analysis/#activity-53). Upload one to your website with 150-300 words on what worked and what didn't. What else do you need to know about the people in this network? How would you find out? 
+2. Blog post #5: Time to get researching! Prompt:
+	- Review the [Research](../process/#research) section of the Process chapter. 
+	- Set a timer for 25 minutes and do some gathering of potential sources and contextual material. Remember your ideas from week 3? This is your chance to explore further. Keep a log of what you find. 
+	- Take a break, or come back another day and set your timer again. This time your goal is to refine your list into useful sources. 
+	- Your blog post should include 100+ words on the experience of doing this work. What worked for you? What didn't? What did you discover about the research process?
+	- Include 5 sources with 2-sentence annotations. In the first sentence, summarize the source. In the second sentence, say something about why this source is useful for your project. 
 
 # Week 6 - Spatial Analysis
 
