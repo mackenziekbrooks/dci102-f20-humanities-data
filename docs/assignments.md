@@ -16,6 +16,10 @@ This is a lot to get used to at first, so please ask any questions you have earl
 |C| 5 weekly activity logs<br />  6 or 7 blog posts <br />  3 project pieces|
 |D| less than 5 weekly activity logs<br />  less than 5 blog posts<br />  less than 3 project pieces|
 
+## Tokens
+
+You're not expected to be perfect at every assignment! To help you recover from any incomplete assignments, you will be assigned **three tokens**. Using a token will give you one week to revise and resubmit an assignment to receive credit. To use a token, you must email me with your intention to use a token, the assignment you wish resubmit, and the expected time frame. Using a token does not guarantee that you will receive a complete on the resubmission, but hopefully with my feedback you can get there. 
+
 ## Weekly Activity Logs
 
 Each week you'll complete several activities designed to increase your familiarity with your computer, digital methods, and digital tools. Many of these activities will be started or completed together in our class sessions, but some you'll be expected to do on your own. Activities will be about learning a process or method, rather than delivering the right answer. You will share your results on your website and instructions for what to share will be posted on the schedule with the due date. You'll turn in this work on Canvas and receive feedback there. 
