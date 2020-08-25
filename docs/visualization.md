@@ -41,12 +41,12 @@ From this list, I could speculate that principles of good visualization might be
 * minimal decoration. 
 * flat, not three-dimensional.
 * clear, legible labels.
-* color choices that take into account the prevalence[color blindness](http://www.themacroscope.org/?page_id=880).
+* color choices that take into account the prevalence of [color blindness](http://www.themacroscope.org/?page_id=880).
 * appropriate chart type. 
 * balanced scale and axises. 
 * meaningful legend and explanatory title and text. 
 
-Good visualizations are built with accessibily issues in mind and improve the value of the visualization for everyone. Read [accessible data viz is better data viz](http://www.storytellingwithdata.com/blog/2018/6/26/accessible-data-viz-is-better-data-viz) and consider the principles it suggests when you are evaluating and creating visualizations.  
+Good visualizations are built with accessibility issues in mind and improve the value of the visualization for everyone. Read [accessible data viz is better data viz](http://www.storytellingwithdata.com/blog/2018/6/26/accessible-data-viz-is-better-data-viz) and consider the principles it suggests when you are evaluating and creating visualizations.  
 
 I walk you through this exercise in hopes that you can use it on other visualizations you encounter. It's easy to look at a list of best practices, it's a little more challenging to apply those practices to your own work or the work of others. 
 

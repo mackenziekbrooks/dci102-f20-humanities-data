@@ -1,9 +1,9 @@
 
 **Jump to:**
 
-[Week 1](#week1-how-the-web-works) \| [Week 2](#week-2-your-computer) \|  [Week 3](#week3-data) \|  [Week 4](#week-4-visualization) \|  [Week 5](#week-5-network-analysis) \|  [Week 6](#week-6-spatial-analysis) \|  [Week 7](#week-7-text-analysis) \|  [Week 8](#week-8-project-planning) \|  [Week 9](#week-9-data-modeling) \|  [Week 10](#week-10-data-analysis-visualization) \|  [Week 11](#week-11-results-interpretation) \|  [Week 12](#week-12-wrapping-up-presentation) 
+[Week 1](#week-1-how-the-web-works) \| [Week 2](#week-2-your-computer) \|  [Week 3](#week-3-data) \|  [Week 4](#week-4-visualization) \|  [Week 5](#week-5-network-analysis) \|  [Week 6](#week-6-spatial-analysis) \|  [Week 7](#week-7-text-analysis) \|  [Week 8](#week-8-project-planning) \|  [Week 9](#week-9-data-modeling) \|  [Week 10](#week-10-data-analysis-visualization) \|  [Week 11](#week-11-results-interpretation) \|  [Week 12](#week-12-wrapping-up-presentation) 
 
-This class will meet on Zoom during its normally scheduled time: TR 4-5:30pm. 
+This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm. 
 
 # Week 1 - How the Web Works
 
@@ -11,11 +11,13 @@ This class will meet on Zoom during its normally scheduled time: TR 4-5:30pm.
 * Getting to know you [survey](https://forms.gle/eW9Q2fUVxiJjgQHPA)
 * Read [What is Humanities Data](what-is-humanities-data.md) by class time. 
 * Class agenda:
-	* introductions + icebreaker (4:30-4:45)
-	* course overview (4:45-5:00)
-	* breakout rooms: course charter (5:00-5:20)
-	* review charter together (5:20-5:40)
-	* go over activities for Thursday (5:40-6pm)
+	* introductions + icebreaker: earliest memory of the internet? (4:30-4:45)
+	* course overview (4:45-5:05)
+	* quick break (5:05-5:10)
+	* breakout rooms: [course charter](https://wlu.app.box.com/notes/711151977761) (5:10-5:30)
+	* review charter together (5:30-5:45)
+	* go over activities for Thursday (5:45-6pm)
+
 
 **For Thursday**
 
@@ -28,9 +30,9 @@ This class will meet on Zoom during its normally scheduled time: TR 4-5:30pm.
 ## Thursday, August 27, 2020
 * How the Web Works!
 * Class agenda: 
-	* icebreaker (4:30-4:40)
-	* activity 1.1 sharing
-	* activities 1.2-1.6
+	* icebreaker: what do you wish you'd known about W&L as a first year? (4:30-4:40)
+	* activity 1.1 sharing + discussion (4:40-4:50)
+	* [activities 1.2-1.6](../how-the-web-works/#activity-12-html) (4:50-6pm, remind me to take a break!)
 
 ## Activity log week 1
 **Due Monday 9/1 at 9am**
