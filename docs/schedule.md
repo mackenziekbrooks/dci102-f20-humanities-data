@@ -32,7 +32,10 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 * Class agenda: 
 	* icebreaker: what do you wish you'd known about W&L as a first year? (4:30-4:40)
 	* activity 1.1 sharing + discussion (4:40-4:50)
-	* [activities 1.2-1.6](../how-the-web-works/#activity-12-html) (4:50-6pm, remind me to take a break!)
+	* activities 1.2 + 1.3 walk through (4:50-5:00)
+	* activities 1.2 + 1.3 solo work time + break (5:00-5:15)
+	* activities 1.4-1.6 walk through (5:15-5:30)
+	* activities 1.4-1.6 work time (5:30-6:00)
 
 ## Activity log week 1
 **Due Monday 9/1 at 9am**
