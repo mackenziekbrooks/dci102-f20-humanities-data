@@ -14,7 +14,7 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 	* introductions + icebreaker: earliest memory of the internet? (4:30-4:45)
 	* course overview (4:45-5:05)
 	* quick break (5:05-5:10)
-	* breakout rooms: course charter (5:10-5:30)
+	* breakout rooms: [course charter](https://wlu.app.box.com/notes/711151977761) (5:10-5:30)
 	* review charter together (5:30-5:45)
 	* go over activities for Thursday (5:45-6pm)
 
@@ -32,10 +32,13 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 * Class agenda: 
 	* icebreaker: what do you wish you'd known about W&L as a first year? (4:30-4:40)
 	* activity 1.1 sharing + discussion (4:40-4:50)
-	* [activities 1.2-1.6](../how-the-web-works/#activity-12-html) (4:50-6pm, remind me to take a break!)
+	* activities 1.2 + 1.3 walk through (4:50-5:00)
+	* activities 1.2 + 1.3 solo work time + break (5:00-5:15)
+	* activities 1.4-1.6 walk through (5:15-5:30)
+	* activities 1.4-1.6 work time (5:30-6:00)
 
 ## Activity log week 1
-**Due Monday 9/1 at 9am**
+**Due Monday 8/31 at 9am** Wow because of date typo, you have until Tuesday, 9/1 at 9am to submit.
 
 1. Complete [Activities 1.2, 1.3, 1.4](../how-the-web-works/#activities). In Canvas, submit the URL webpage that you have coded and uploaded to your domain. 
 2. Complete [Activities 1.5-1.6](../how-the-web-works/#activities). In Canvas, submit the URL to your Wordpress site. There should be evidence that you have customized your Wordpress beyond the basic settings. 
