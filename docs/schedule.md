@@ -38,7 +38,7 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 	* activities 1.4-1.6 work time (5:30-6:00)
 
 ## Activity log week 1
-**Due Monday 9/1 at 9am**
+**Due Monday 8/31 at 9am** Wow because of date typo, you have until Tuesday, 9/1 at 9am to submit.
 
 1. Complete [Activities 1.2, 1.3, 1.4](../how-the-web-works/#activities). In Canvas, submit the URL webpage that you have coded and uploaded to your domain. 
 2. Complete [Activities 1.5-1.6](../how-the-web-works/#activities). In Canvas, submit the URL to your Wordpress site. There should be evidence that you have customized your Wordpress beyond the basic settings. 
@@ -51,16 +51,17 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 ## Tuesday, September 1, 2020
 * Read [Your Computer](your-computer.md) by class time. 
 * Class agenda: 
-	* icebreaker:
-	* breakout groups: review websites in small groups (4:40-5:00)
+	* icebreaker: It's September today. What will you miss the most about summer? 
+	* breakout groups: review websites in small groups (4:45-5:00)
 		* First, share with your partner one realization you had while learning HTML/CSS. It can be technical like "don't forget that slash" or conceptual "I realized I need to read directions more closely."
-    	* Second, visit each other's new website. Right click/Ctrl + Click to view page source.
-    	* Proof your partner's code. Check their syntax.
+    	* Second, visit each other's hand-coded website (not Wordpress). Share the link in chat. Right click/Ctrl + Click to view page source.
+    	* Proof your partner's code. Check their syntax. Did they miss any slashes? Is everything in the right place? 
     	* Work together to add the following to each of your websites:
-        an iframe that embeds another website
-        two div tags with different background colors (hint, you'll need to use a class or id)
+        	* an `iframe` tag which will embed another website onto your own. 
+        	* two `div` tags with different background colors (hint, you'll need to use a class or id)
     	* Be sure to upload your changes to your website.
-	* start [Activity 2.1](../your-computer/#activity-21) together.
+    * break (5:00-5:05)
+	* start [Activity 2.1](../your-computer/#activity-21) together (5:05-5:45)
 	* talk about Week 2 blog post 
 
 **For Thursday:**
