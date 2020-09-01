@@ -14,7 +14,7 @@ Mackenzie Brooks // Associate Professor & Digital Humanities Librarian // (she/h
 
 brooksm@wlu.edu // 540-458-8659 // Leyburn 321
 
-Office hours: TBD
+Office hours: TR 1:30-4:30pm
 
 ## Course description
 This course introduces students to the creation, use, and visualization of data in humanities-based research. The course is predicated on the fact that the digital turn of the last several decades has drastically changed the nature of knowledge production and distribution. In the 21st century, we must develop fluencies in media beyond the printed word such as text mining, network analysis, data visualization, and spatial analysis. Readings and discussions of theory from the field and set of practices that is Digital Humanities (DH) will complement hands-on application of digital methods and computational thinking. While the objects of our study will primarily come from the humanities, the methods of analysis are widely applicable to the social and natural sciences. 
