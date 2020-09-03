@@ -70,9 +70,9 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 
 ## Thursday, September 3, 2020
 * Class agenda:
-	* icebreaker: (4:30-4:40)
+	* icebreaker: what's your favorite comfort tv show? (4:30-4:40)
 	* Introduce Final Project (4:40-5:00)
-	* Start Activity 2.3 together (5:00-5:45)
+	* Start [Activity 2.3](../your-computer/#activity-23) together in breakout rooms (5:00-5:45)
 	* Questions??? (5:45-6:00)
 
 ## Activity log week 2
@@ -103,7 +103,7 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 	
 **For Thursday:**	
 
-* Read through Activithy 3.4, including the report to prepare for our in-class activity.
+* Read through Activity 3.4, including the report to prepare for our in-class activity.
 * Read over the [Process](process.md) section and bring questions. 
 * Read [Big? Smart? Clean? Messy? Data in the Humanities](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/)
 

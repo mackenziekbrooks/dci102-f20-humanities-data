@@ -89,6 +89,7 @@ In this activity, we'll apply our new command line skills to working with a corp
 
 1. Download this [zip file](https://wlu.box.com/s/1mc74g28s6ai9uobldn9ak521vxx9d9u) and save it to your Desktop. 
 2. Unzip the file by double clicking or using an Extract All option. A zip file is a compression method for bundling up a lot of folders into one so it's easy to share. 
+3. While that's unzipping, take some time to explore the [Ring-tum Phi in the Digital Archive](https://dspace.wlu.edu/handle/11021/34762). Don't just look at the content, but think about the experience of browsing this digitized newspaper.  
 3. Open the command line shell, and navigate to the folder you just downloaded. 
 4. Use `pwd` `cd` and `ls` to navigate through the RTP-1980s folder.
 5. Can you mirror these action using your mouse and the Finder/Windows Explorer window? What are the differences? 
