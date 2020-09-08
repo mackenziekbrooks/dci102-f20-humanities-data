@@ -96,8 +96,8 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 ## Tuesday, September 8, 2020
 * Read the [Data](data.md) chapter by class time. 
 * Class agenda:
-	* icebreaker: (4:30-4:40)
-	* Activity 3.1 (4:40-5:10)
+	* icebreaker: favorite dog breed (4:30-4:45)
+	* [Activity 3.1](../data/#activity-31) (4:45-5:10)
 	* Activity 3.2 (5:10-5:40)
 	* Activity 3.3 (5:40-6:00)
 	
