@@ -276,9 +276,9 @@ Time to take a little step back from this data set and think about its potential
 ### Activity 3.4
 Try your hand at creating your own dataset in a small group.  
 
-1. Start with the [Alumni Coeducation Correspondence, May 10, 1984 (report)](https://dspace.wlu.edu/handle/11021/34413) from the [W&L Digital Archive](https://repository.wlu.edu/).  Read over the report to get an understanding of what it is telling you.  What is this report covering?
-2. Create your data model.  Look over the consistent pieces of information included in the report.  Choose what fields you think you should include.  Why are you choosing those fields?  What do you hope to use them to explore within the data?
-3. Take a few pages from the report and create your dataset. You'll be supplied with a Google spreadsheet to do this work. 
+1. Start with the [Alumni Coeducation Correspondence, May 10, 1984 (report)](https://dspace.wlu.edu/handle/11021/34413) from the [W&L Digital Archive](https://repository.wlu.edu/). Take some time to read through the report, making note of the content and how it is presented. How are the first few pages different than the rest? 
+2. Create your data model in a Box note for your group in this [folder](https://wlu.app.box.com/folder/121477533100).  Look over all the types of information included in the report.  Choose what fields you think you should include.  Why are you choosing those fields?  How would these fields be useful in exploring/visualizing the data? Will your data collection enable certain research questions? Is there anything you can leave out? 
+3. Once your model is set up, go ahead and start transcribing the data. Each team will be assigned a few pages to transcribe into [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1VLhYGvwZDPXsIckNWx9w5QFTIkFypSyE6fRT4It-zDk/edit?usp=sharing). Try to avoid looking at other team's sheets. We want to be able to compare the differences at the end of this activity. 
 4. After we come back from the small groups, compare your data model to that of other groups and answer the following questions.
 
     * How are the models different? 

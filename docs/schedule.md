@@ -109,7 +109,7 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 
 ## Thursday, September 10, 2020
 * Class agenda: 
-	* icebreaker: (4:30-4:40)
+	* icebreaker: what is the least interesting fact about yourself? (4:30-4:40)
 	* Project Q&A (4:40-4:50)
 	* Activity 3.4 (4:50-6:00)
 
