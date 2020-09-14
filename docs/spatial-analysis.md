@@ -112,6 +112,8 @@ In your groups, answer the following questions. Record your answers in a Boxnote
 * Can you find the documentation? Other tutorials?
 * Using the Coeducation Report data, create a map. You may need to alter the data to fit the requirements of the mapping tool. 
 
+With our remaining time, choose another platform to explore and compare your experience.
+
 ## Resources
 
 

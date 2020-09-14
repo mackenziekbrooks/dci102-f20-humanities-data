@@ -127,8 +127,8 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 * [Data + Design: A simple introduction to preparing and visualizing information](https://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0463d52f454.pdf), Visualization section, chapters 12-15
 * Go out into the wilds of the internet and find a data visualization that speaks to you to prepare for Activity 4.2. 
 * Class agenda:
-	* icebreaker:
-	* Activity 4.1. (4:40-5:10)
+	* icebreaker: (4:30-)
+	* Activity 4.1. (4:45-5:10)
 	* Activity 4.2 (5:10-6pm)
 
 **For Thursday** 
@@ -185,15 +185,46 @@ Prepare for [Activity 5.2](../network-analysis/#activity-52)
 # Week 6 - Spatial Analysis
 
 ## Tuesday, September 29, 2020
+* Read the [Spatial Analysis](../spatial-analysis) by class time. 
+* Class agenda:
+	* icebreaker:
+	* [Activity 6.1](../spatial-analysis/#activity-61)
+	* [Activity 6.2](../spatial-analysis/#activity-62)
 
 ## Thursday, October 1, 2020
+
+* Class agenda:
+	* icebreaker:
+	* [Activity 6.3](../spatial-analysis/#activity-63)
+
+
+## Activity log week 6
+
+**Due Monday 10/5 at 9am**
+
+1. Blog post #6: Building on our work in Activity 6.3, select a second mapping platform to explore (not the one you looked at in class). In a 500-700 word blog post, answer the questions from Activity 6.3, then provide additional commentary on the differences between this platform and the one you looked at in class. Consider *how* to use the platform and *what* can be created with it. Use the Coeducation Report data set to create a map, then embed it into your post. 
 
 
 # Week 7 - Text Analysis 
 
 ## Tuesday, October 6, 2020
+* Read [Text Analysis](../text-analysis.md) by class time. 
+* Class agenda:
+	* icebreaker: 
+	* 4 Ways to Read activities (4:40-6)
 
 ## Thursday, October 8, 2020
+* Read ... 
+* Class agenda: 
+	* icebreaker:
+	* [Activity 7.X]
+
+## Activity log week 7
+
+**Due Monday 10/12 at 9am**
+
+1. Text analysis work
+2. Draft your [project proposal](../assignments/#project-proposal) in preparation for next week's individual consults. 
 
 # Week 8 - Project Planning
 
