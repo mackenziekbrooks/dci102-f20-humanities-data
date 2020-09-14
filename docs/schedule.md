@@ -96,8 +96,8 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 ## Tuesday, September 8, 2020
 * Read the [Data](data.md) chapter by class time. 
 * Class agenda:
-	* icebreaker: (4:30-4:40)
-	* Activity 3.1 (4:40-5:10)
+	* icebreaker: favorite dog breed (4:30-4:45)
+	* [Activity 3.1](../data/#activity-31) (4:45-5:10)
 	* Activity 3.2 (5:10-5:40)
 	* Activity 3.3 (5:40-6:00)
 	
@@ -109,7 +109,7 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 
 ## Thursday, September 10, 2020
 * Class agenda: 
-	* icebreaker: (4:30-4:40)
+	* icebreaker: what is the least interesting fact about yourself? (4:30-4:40)
 	* Project Q&A (4:40-4:50)
 	* Activity 3.4 (4:50-6:00)
 
@@ -124,7 +124,7 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 
 ## Tuesday, September 15, 2020
 * Read [Visualization](visualization.md) by class time.
-* [Data + Design: A simple introduction to preparing and visualizing information](https://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0463d52f454.pdf), Visualization section
+* [Data + Design: A simple introduction to preparing and visualizing information](https://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0463d52f454.pdf), Visualization section, chapters 12-15
 * Go out into the wilds of the internet and find a data visualization that speaks to you to prepare for Activity 4.2. 
 * Class agenda:
 	* icebreaker:
