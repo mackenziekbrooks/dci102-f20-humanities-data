@@ -124,7 +124,7 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 
 ## Tuesday, September 15, 2020
 * Read [Visualization](visualization.md) by class time.
-* [Data + Design: A simple introduction to preparing and visualizing information](https://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0463d52f454.pdf)
+* [Data + Design: A simple introduction to preparing and visualizing information](https://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0463d52f454.pdf), Visualization section
 * Go out into the wilds of the internet and find a data visualization that speaks to you to prepare for Activity 4.2. 
 * Class agenda:
 	* icebreaker:
