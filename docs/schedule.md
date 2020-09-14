@@ -134,7 +134,8 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 **For Thursday** 
 
 * Prepare Coeducation report CSV. 
-* [The Historian's Macroscope - Making Your Data Legible: A Basic Introduction to Visualizations](http://www.themacroscope.org/?page_id=837) and subsequent sections
+* Read [When the Designer Shows Up in the Design](https://www.propublica.org/article/when-the-designer-shows-up-in-the-design)
+* Read [The Historian's Macroscope - Making Your Data Legible: A Basic Introduction to Visualizations](http://www.themacroscope.org/?page_id=837) and subsequent sections
 
 ## Thursday, September 17, 2020
 * Class agenda:
@@ -160,22 +161,24 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 	* Talk about research blog post 
 
 **For Thursday**
-Prepare for [Activity 5.2](../network-analysis/#activity-52)
+
+Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked to share in class on the project you choose! 
 
 ## Thursday, September 24, 2020
+* Read [An Entry of One's Own](https://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
 * Read the first few sections of the [Process](../process/#picking-a-topic) chapter again.
 * Class agenda:
 	* icebreaker:
-	* Activity 5.2
-	* Activity 5.3
+	* [Activity 5.2](../network-analysis/#activity-52)
+	* [Activity 5.3](../network-analysis/#activity-53)
 
 
 ## Activity log week 5
 
 **Due Monday 9/28 at 9am**
 
-1. Spend some more time with the data and networks of [Activity 5.3](../network-analysis/#activity-53). Upload one to your website with 150-300 words on what worked and what didn't. What else do you need to know about the people in this network? How would you find out? 
-2. Blog post #5: Time to get researching! Prompt:
+1. Spend some more time with the data and networks of [Activity 5.3](../network-analysis/#activity-53). Upload one network visualization to your website with 150-300 words on what worked and what didn't. What else do you need to know about the people in this network? How would you find out? Include 2 sources that you might use to do further research about the inhabitants of the cemetery. 
+2. Blog post #5: Time to start your research! Prompt:
 	- Review the [Research](../process/#research) section of the Process chapter. 
 	- Set a timer for 25 minutes and do some gathering of potential sources and contextual material. Remember your ideas from week 3? This is your chance to explore further. Keep a log of what you find. 
 	- Take a break, or come back another day and set your timer again. This time your goal is to refine your list into useful sources. 
@@ -192,7 +195,7 @@ Prepare for [Activity 5.2](../network-analysis/#activity-52)
 	* [Activity 6.2](../spatial-analysis/#activity-62)
 
 ## Thursday, October 1, 2020
-
+* read [What is Spatial History?](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29&project_id) and [The Contested Nature of Historical GIS](http://ezproxy.wlu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=iih&AN=91840444&site=ehost-live) by class time.
 * Class agenda:
 	* icebreaker:
 	* [Activity 6.3](../spatial-analysis/#activity-63)
@@ -202,22 +205,31 @@ Prepare for [Activity 5.2](../network-analysis/#activity-52)
 
 **Due Monday 10/5 at 9am**
 
-1. Blog post #6: Building on our work in Activity 6.3, select a second mapping platform to explore (not the one you looked at in class). In a 500-700 word blog post, answer the questions from Activity 6.3, then provide additional commentary on the differences between this platform and the one you looked at in class. Consider *how* to use the platform and *what* can be created with it. Use the Coeducation Report data set to create a map, then embed it into your post. 
+1. To complete [Activity 6.3](../spatial-analysis/#activity-63), select a second mapping platform to explore (not the one you looked at in class). In a 300-500 words, answer the questions from Activity 6.3, then provide additional commentary on the differences between this platform and the one you looked at in class. Consider *how* to use the platform and *what* can be created with it. Use the Coeducation Report data set to create a map, then embed it into your post. 
+2. Blog post: Now that we've had more practice reviewing projects, it's time to write your own from scratch! Using the [Reviews in DH](https://reviewsindh.pubpub.org/review-process) Review Content criteria, write a 500 word review of one of the following spatial projects: 
+
+* [Civil War DC](http://civilwardc.org/)
+* [Mapping the Second Klu Klux Klan](https://labs.library.vcu.edu/klan/)
+* [Navigating the Green Book](http://publicdomain.nypl.org/greenbook-map/)
+* [Visualizing Emancipation](http://dsl.richmond.edu/emancipation/)
+* [DECIMA](https://decima-map.net/)
+
 
 
 # Week 7 - Text Analysis 
 
 ## Tuesday, October 6, 2020
 * Read [Text Analysis](../text-analysis.md) by class time. 
+* Print out this [activity packet](../assets/4waystoread-handouts.docx) before class! 
 * Class agenda:
 	* icebreaker: 
-	* 4 Ways to Read activities (4:40-6)
+	* 4 Ways to Read activity (4:40-6)
 
 ## Thursday, October 8, 2020
 * Read ... 
 * Class agenda: 
 	* icebreaker:
-	* [Activity 7.X]
+	* [Activity 7.2]
 
 ## Activity log week 7
 
@@ -228,9 +240,7 @@ Prepare for [Activity 5.2](../network-analysis/#activity-52)
 
 # Week 8 - Project Planning
 
-## Tuesday, October 13, 2020
-
-## Thursday, October 15, 2020
+We'll schedule individual meetings this week to discuss your project. 
 
 # Week 9 - Data Modeling
 

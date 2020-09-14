@@ -124,7 +124,7 @@ Let's continue practicing our skills reviewing established projects. Instead of 
 During class, we'll divide into groups to discuss the project you chose. 
 
 1. What is this project about? What are the goals?
-2. Where is the data? 
+2. Where/what is the data? 
 3. How is this a humanities project?
 4. How effective are the network visualizations? Why do you say that?
 5. What about the design, layout, and organization of the project? 
@@ -139,7 +139,6 @@ Let's practice putting together a network visualization from our trusty cemetery
 3. Go ahead and put some data together. This is a big data set, so we'll have to start somewhere. 
 4. Upload your data into [Palladio](https://hdlab.stanford.edu/palladio/) and create your network.
 5. What worked? What didn't? 
-
 
 
 

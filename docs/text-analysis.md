@@ -153,29 +153,40 @@ One final note on copyright. Creative works published after 1925 (as of 2020) ar
 
 ## Text Analysis Tools
 
-* Voyant
-* LExos
-* AntConc
+* [Voyant](voyant-tools.org/) - A robust and popular tool for conducting many types of text analysis. FYI, you can run Voyant [locally](docs.voyant-tools.org/resources/run-your-own/voyant-server/) on your own computer. This is useful for large datasets or times when Voyant is slow.
+* [Lexos](http://lexos.wheatoncollege.edu/upload) - This tool from Wheaton College performs some powerful pre-processing of your corpus for text analysis.
+* [AntConc](http://www.laurenceanthony.net/software/antconc/) - Software package for linguistic analysis of texts, particularly concordance work.
+* [Google Books Ngram Viewer](https://books.google.com/ngrams)  -  A popular tool for visualizing n-grams over time in the Google Books data set. Prof. Brandon Walsh delves into the nuances of the Ngram Viewer over on his [text analysis workbook](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/issues/google-ngram.html). You can apply the same technology to your own corpus with a took called [Bookworm](http://bookworm.culturomics.org/).
+* [MALLET](http://mallet.cs.umass.edu/http://mallet.cs.umass.edu/) - Stands for MAchine Learning for LanguagE Toolkit. It's a powerful command line tool for topic modeling. 
+* [Scott Enderle's Topic Modeling Tool](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html) - is an option for topic modeling if you don't want to use the command line. It creates nice HTML pages for interacting with the data. 
+* [NLTK](http://www.nltk.org/) - Python library containing a number of text analysis tools. If you feel comfortable with the command line or have programming experience, you might want to explore this option. Check out the [Steinheil Affair project on GitHub](https://github.com/wludh/frenchnewspapers) for an example of what can be with NLTK. You might also be interested in [A Humanist's Cookbook for Natural Language Processing with Python](https://github.com/walshbr/humanists-nlp-cookbook/blob/release/toc.ipynb).
+
 
 ## Activities
 
-## Activity 1
-Brandon's presentation ? 
+### Activity 7.1 - 4 Ways of Reading a Text
 
-## Activity 2
+In this activity, we'll work through Prof. Brandon Walsh's "4 Ways of Reading a Text" lecture. To prepare, please print one copy of this [handout packet](../assets/4waystoread-handouts.docx). 
 
-RTP + OCR + Regex? 
 
-Explore with Lexos
+### Activity 7.2 - Voyant
 
-Voyant 
+Let's spend some time getting comfortable with [Voyant Tools](http://voyant-tools.org/).
 
 
 
 
-## Resources
+## Projects
+* [Mining the Dispatch](http://dsl.richmond.edu/dispatch/)
+* [The Proceedings of the Old Bailey](https://www.oldbaileyonline.org/)
+* [Quantifying Kissinger](http://blog.quantifyingkissinger.com/)
+* [Dash Amerikan](http://dashamerikan.scholarslab.org/)
+* [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/)
+* [A Topic Model of Literary Studies Journals](http://www.rci.rutgers.edu/~ag978/quiet/#)
+* [America's Public Bible](http://americaspublicbible.org/)
 
-## Readings 
+## Resources 
+* [Corpus Analysis with AntConc](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc)
 
 
 
