@@ -117,11 +117,9 @@ To complete this activity after class, select a second platform and go through t
 ## Resources
 * [Spatial Humanities Workshop](https://lincolnmullen.com/projects/spatial-workshop/)
 
-
 ## Readings
 * [Anatomy of a Web Map](http://maptime.io/anatomy-of-a-web-map/)
 * [What is Spatial History?](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29&project_id)
-* 
 
 ## Credits
 Material for this section was derived from Lincoln Mullen's [Spatial Humanities Workshop](https://lincolnmullen.com/projects/spatial-workshop/) materials per the CC-BY-NC-SA 4.0 license. 

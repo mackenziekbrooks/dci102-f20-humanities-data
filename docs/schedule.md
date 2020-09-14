@@ -226,7 +226,7 @@ Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked 
 	* 4 Ways to Read activity (4:40-6)
 
 ## Thursday, October 8, 2020
-* Read ... 
+* Read [Argument Clinic](http://scottbot.net/argument-clinic/) by Scott Weingart 
 * Class agenda: 
 	* icebreaker:
 	* [Activity 7.2]
@@ -235,7 +235,7 @@ Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked 
 
 **Due Monday 10/12 at 9am**
 
-1. Text analysis work
+1. Activity 7.3 
 2. Draft your [project proposal](../assignments/#project-proposal) in preparation for next week's individual consults. 
 
 # Week 8 - Project Planning

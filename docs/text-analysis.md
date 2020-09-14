@@ -172,7 +172,25 @@ In this activity, we'll work through Prof. Brandon Walsh's "4 Ways of Reading a 
 ### Activity 7.2 - Voyant
 
 Let's spend some time getting comfortable with [Voyant Tools](http://voyant-tools.org/).
+ 
+1. Visit [Project Gutenberg](https://www.gutenberg.org/browse/scores/top) and find a text you know well. Maybe it's one you read in a class or one that's just a personal favorite. 
+2. Download the plain text version of your selected book. 
+3. In [Voyant Tools](http://voyant-tools.org/), upload the text file you just downloaded. 
+4. Use the little window icon to change the tool being displayed in each window.
+5. Answer the following questions. For each question, identify the visualization tool you used to find the answer. Sometimes there are more than one way to visualize the results. Which methods work bets? 
+	* What are the most common words in your text? The least common? 
+	* Search for a meaningful word in the Trends tool. How is that word used over the course of your text?
+	* What are the topics of your text? Which tool did you use to find the topics?
+	* Which tools help you find connections between words? 
+	* What is the weirdest visualization you can find? 
+	* Which visualization seems totally bizarre and not helpful? Why? 
+	* How do you export your results? 
+	* What types of questions can you form about your text with these tools? 
 
+
+### Activity 7.3
+
+Now that you're comfortable with Voyant, let's return to the Ring-tum Phi and compare it to another corpus: the Alumni Magazine. 
 
 
 
