@@ -133,22 +133,21 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 
 **For Thursday** 
 
-* Prepare Coeducation report CSV. 
 * Read [When the Designer Shows Up in the Design](https://www.propublica.org/article/when-the-designer-shows-up-in-the-design)
 * Read [The Historian's Macroscope - Making Your Data Legible: A Basic Introduction to Visualizations](http://www.themacroscope.org/?page_id=837) and subsequent sections
 
 ## Thursday, September 17, 2020
 * Class agenda:
 	* icebreaker:
+	* Discuss readings 
 	* Activity 4.3
 
 ## Activity log week 4
 
 **Due Monday 9/21 at 9am**
 
-1. Submit document created by Activity 4.1 in Canvas. 
-2. Submit URL of post of Activity 2 in Canvas.
-3. Blog post #4: Your blog post this week will be the results of Activity 4.3. 
+1. Turn in the results of Activity 4.1 and 4.2 as documents in Canvas. 
+2. Blog post #4: Your blog post this week will be the results of Activity 4.3. 
 
 # Week 5 - Network Analysis 
 

@@ -77,8 +77,8 @@ If you're just starting out, use Excel or Google Sheets to get comfortable. If y
 Before you start making your own visualizations, let's practice improving on existing visualizations. 
 
 1. Visit [viz.wtf](https://viz.wtf/) or [HelpmeViz](https://policyviz.com/helpmeviz/). 
-2. Browse the examples, then pick a visualization to analyze. 
-3. Make a list of what's wrong with the visualization. Be specific! What was the goal of the visualization? How has it failed to meet that goal? 
+2. Browse the examples, then pick 1-2 visualizations to analyze as a group. 
+3. Make a list of what's wrong with the visualization. Be specific! What was the goal of the visualization? How has it failed to meet that goal? Record your results in a Boxnote in our [shared Box folder](https://wlu.app.box.com/folder/122745147368).
 4. How can this visualization be improved? Be specific! 
 
 ### Activity 4.2
