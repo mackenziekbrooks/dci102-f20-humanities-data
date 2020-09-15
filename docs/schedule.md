@@ -146,7 +146,8 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 
 **Due Monday 9/21 at 9am**
 
-1. Turn in the results of Activity 4.1 and 4.2 as documents in Canvas. 
+1. Turn in the results of Activity 4.1 on Canvas.
+2. Write 100-200 words on the visualization you found, addressing the questions in Activity 4.2. Turn this in as a document on Canvas. 
 2. Blog post #4: Your blog post this week will be the results of Activity 4.3. 
 
 # Week 5 - Network Analysis 
