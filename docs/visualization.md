@@ -93,13 +93,21 @@ Let's also make sure you can think critically about professional visualizations 
 
 ### Activity 4.3
 
-Now it's time to try your hand at creating your own visualization. You may use the cemetery data set from last week, or the [Coeducation data set](assets/coeducationreport.csv). 
+Now it's time to try your hand at creating your own visualization. Let's start with the Coeducation Report data set. You can use this [assembled data set](https://wlu.box.com/s/2wjb7yyen1ocluqng9d9vpqhq6mc3195) or work on the one we assembled in [Google Sheets](https://docs.google.com/spreadsheets/d/1VLhYGvwZDPXsIckNWx9w5QFTIkFypSyE6fRT4It-zDk/edit?usp=sharing). Don't forget to download it to your own computer, so you don't alter the data for anyone else. 
 
 1. Brainstorm some potential visualizations. What do you want to communicate about this data set? What's interesting about it? How can a visualization help show an intriguing or important part of this data? 
-2. Narrow your list down to one or two ideas. What type of visualizations are you interested in using and how will they help you get at the information you want to convey? 
-3. Use Excel or Google Sheets to create a basic graph. Are you happy with it? Why or why not? How do different types of graphs change your understanding of the data? Try creating the same graph in both programs to see if there are any differences. 
+2. Narrow your list down to one or two ideas. What type of visualizations are you interested in using and how will they help you get at the information you want to convey? It might help to draw your viz on paper first so you have an idea of what you want to create. 
+3. Use Excel (see next section for a short tutorial) or Google Sheets to create a basic graph. Are you happy with it? Why or why not? How do different types of graphs change your understanding of the data? Try creating the same graph in both programs to see if there are any differences. 
 4. If you're still not happy with your graph, try [Raw Graphs](https://rawgraphs.io/). There are some wild options, is your graph still legible? 
-5. Post your visualization to your website with 300-400 words on your goal, your process, and your results. 
+
+For your blog post this week, go through this same process with the Cemetery data set. You may have to clean up fields in Open Refine or Excel to get the results you're looking for. Post several visualizations, along with a 300-400 word blog post on your results. What is your goal with these visualizations? How do they help you understand the data? How did you put these graphs together? Did you have to clean the data or look up how to create the graph? What did you struggle with? Are you happy with the results? What might you want to do with more time/skills? 
+
+#### Excel + Pivot Tables
+
+* To create a graph in Excel, select all the columns in your data set. From the Insert tab, select PivotChart. You can accept the defaults to open a new tab in your spreadsheet.
+* The new tab will have a window called PivotTable fields. It contains a list of fields, then four windows: Filters, Legend (Series), Axis (Categories), and Values. Dragging fields into these categories will create your graph. You can drag the same field into multiple sections or drag multiple fields into different sections to alter the graph.
+* For example, I can create a very basic bar graph that shows how many people support/opppose/don't care about coeducation by dragging the "opinion" field into the Values box (so it counts the number of entries) and the Axis box (so it shows the different answers). What happens when I drag opinions into the Legend box instead? 
+
 
 ## Resources
 * [ColorBrewer](http://colorbrewer2.org/) - tool for creating distinct color palettes

@@ -148,7 +148,7 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 
 1. Turn in the results of Activity 4.1 on Canvas.
 2. Write 100-200 words on the visualization you found, addressing the questions in Activity 4.2. Turn this in as a document on Canvas. 
-2. Blog post #4: Your blog post this week will be the results of Activity 4.3. 
+2. Blog post #4: For your blog post this week, go through the same process in [Activity 4.3](../visualization/#activity-43) with the Cemetery data set. You may have to clean up fields in Open Refine or Excel to get the results you're looking for. Post several visualizations, along with a 300-400 word blog post on your results. What is your goal with these visualizations? How do they help you understand the data? How did you put these graphs together? Did you have to clean the data or look up how to create the graph? What did you struggle with? Are you happy with the results? What might you want to do with more time/skills? What have you learned about data visualization? 
 
 # Week 5 - Network Analysis 
 
