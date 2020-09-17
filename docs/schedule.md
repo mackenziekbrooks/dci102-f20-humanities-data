@@ -138,9 +138,10 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 
 ## Thursday, September 17, 2020
 * Class agenda:
-	* icebreaker:
-	* Discuss readings 
-	* Activity 4.3
+	* icebreaker: is there a scary thing from your childhood that still affects your behavior today? (4:30-4:40pm)
+	* Discuss readings (4:40-5:00pm)
+	* Activity 4.3 (5:00-5:45pm)
+	* Regroup (5:45-6pm)
 
 ## Activity log week 4
 
