@@ -104,7 +104,7 @@ To generate a network, visit the `Graph` tab. Use the menu on the right of the s
 
 ### Activity 5.1 
 
-In order to practice using the terminology and methods of network analysis, let's design a network from scratch. I recommend using the whiteboard feature in Zoom, a Google doc, or a Box note for this exercise. 
+In order to practice using the terminology and methods of network analysis, let's design a network from scratch. I recommend using the whiteboard feature in Zoom, a Google doc/drawing, or a Box note for this exercise. 
 
 1. In your group, select a topic for your network. It should be approachable for all members of your group. Game of Thrones? W&L students? Sports? A novel or TV show?
 2. List all the nodes in your network. Do they have types? Do they have attributes? Is this a bi-modal or multi-modal network?
@@ -127,7 +127,7 @@ During class, we'll divide into groups to discuss the project you chose.
 2. Where/what is the data? 
 3. How is this a humanities project?
 4. How effective are the network visualizations? Why do you say that?
-5. What about the design, layout, and organization of the project? 
+5. What about the design, layout, and organization of the project? What works? What doesn't? How does it contribute to your understanding of the project? 
 
 
 ### Activity 5.3

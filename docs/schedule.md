@@ -157,9 +157,11 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 * Read [Network](network-analysis.md) by class time. 
 * Read [Demystifying Networks](http://www.scottbot.net/HIAL/index.html@p=6279.html)
 * Class agenda:
-	* icebreaker:
-	* Activity 5.1 in breakout rooms (4:40-5:20)
-	* Talk about research blog post 
+	* icebreaker: favorite chore (4:30-4:40)
+	* recap week 4 + intro week 5 (4:40-5:00)
+	* [Activity 5.1](../network-analysis/#activity-51) in breakout rooms (5:00-5:30)
+	* Share Activity 5.1 (5:30pm)
+	* Talk about homework for this week
 
 **For Thursday**
 
@@ -178,13 +180,13 @@ Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked 
 
 **Due Monday 9/28 at 9am**
 
-1. Spend some more time with the data and networks of [Activity 5.3](../network-analysis/#activity-53). Upload one network visualization to your website with 150-300 words on what worked and what didn't. What else do you need to know about the people in this network? How would you find out? Include 2 sources that you might use to do further research about the inhabitants of the cemetery. 
+1. Spend some more time with the data and networks of [Activity 5.3](../network-analysis/#activity-53). Upload one network visualization to your website with 150-300 words on what worked and what didn't. What is this network telling you? What is it obscuring? What else do you need to know about the people in this network? 
 2. Blog post #5: Time to start your research! Prompt:
 	- Review the [Research](../process/#research) section of the Process chapter. 
 	- Set a timer for 25 minutes and do some gathering of potential sources and contextual material. Remember your ideas from week 3? This is your chance to explore further. Keep a log of what you find. 
-	- Take a break, or come back another day and set your timer again. This time your goal is to refine your list into useful sources. 
+	- Take a break, or come back another day and set your timer again. This time your goal is to refine your list into useful sources. You should have at least 2 scholarly sources and at least 2 other sources.  
 	- Your blog post should include 100+ words on the experience of doing this work. What worked for you? What didn't? What did you discover about the research process?
-	- Include 5 sources with 2-sentence annotations. In the first sentence, summarize the source. In the second sentence, say something about why this source is useful for your project. 
+	- List your 5 sources with 2-sentence annotations. In the first sentence, summarize the source. In the second sentence, say something about why this source is useful for your project. 
 
 # Week 6 - Spatial Analysis
 
