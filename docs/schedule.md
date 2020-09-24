@@ -171,16 +171,17 @@ Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked 
 * Read [An Entry of One's Own](https://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
 * Read the first few sections of the [Process](../process/#picking-a-topic) chapter again.
 * Class agenda:
-	* icebreaker:
-	* [Activity 5.2](../network-analysis/#activity-52)
-	* [Activity 5.3](../network-analysis/#activity-53)
+	* icebreaker: favorite casserole? (4:30-4:40)
+	* [Activity 5.2](../network-analysis/#activity-52) (4:40-5:10pm)
+	* [Activity 5.3](../network-analysis/#activity-53) (5:15-5:45pm)
+	* Talk about 5.4 and blog post. 
 
 
 ## Activity log week 5
 
 **Due Monday 9/28 at 9am**
 
-1. Spend some more time with the data and networks of [Activity 5.3](../network-analysis/#activity-53). Upload one network visualization to your website with 150-300 words on what worked and what didn't. What is this network telling you? What is it obscuring? What else do you need to know about the people in this network? 
+1. Spend some more time with the data and networks of [Activity 5.4](../network-analysis/#activity-53). Upload one network visualization to your website with 150-300 words on what worked and what didn't. What is this network telling you? What is it obscuring? What else do you need to know about the people in this network? 
 2. Blog post #5: Time to start your research! Prompt:
 	- Review the [Research](../process/#research) section of the Process chapter. 
 	- Set a timer for 25 minutes and do some gathering of potential sources and contextual material. Remember your ideas from week 3? This is your chance to explore further. Keep a log of what you find. 

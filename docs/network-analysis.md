@@ -129,10 +129,27 @@ During class, we'll divide into groups to discuss the project you chose.
 4. How effective are the network visualizations? Why do you say that?
 5. What about the design, layout, and organization of the project? What works? What doesn't? How does it contribute to your understanding of the project? 
 
-
 ### Activity 5.3
+Let's practice putting together a network visualization with sample data. 
 
-Let's practice putting together a network visualization from our trusty cemetery dataset. 
+1. Download the [results](https://docs.google.com/spreadsheets/d/1PwfV7-_sTI-YMkVxTufSQ0QIgA3zOGaGo-aFeePXsCY/edit?usp=sharing) of our super duper quick survey. 
+2. To create an edge list, open the results in Open Refine. Follow these instructions carefully!
+	* Remove the timestamp column.
+	* From the first column after the names, select Transpose > Transpose cells across columns into rows.
+	* Select the one column option and title your new column Value.
+	* Check the box for Fill down in other columns.
+	* Press Transpose. You should end up with **two columns** where each person's name is listed multiple times, corresponding with their answer to each survey question.
+	* Extract your new edge list as .csv to download back to your computer.
+3. Open [Palladio](http://hdlab.stanford.edu/palladio-app/) and drag your new edge list into the white box.
+4. In Palladio, navigate to the Graph menu item. 
+5. In the Settings box, you'll want to use the drop down menu to select a column from the data (name or target). You should now see a network viz!
+6. Test out the checkboxes to see how that changes your visualization. What do the Facets do at the bottom of the screen? How do you download this image?
+7. What are the limits of Palladio? 
+
+
+### Activity 5.4
+
+Now try putting together a network visualization from our trusty cemetery dataset. 
 
 1. First, what are our questions? Who are the people in our data set? What networks should try to explore? 
 2. Next, we need an edge list. We know that this is a two column spreadsheet, what belongs in each column?
