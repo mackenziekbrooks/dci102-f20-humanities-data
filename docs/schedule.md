@@ -194,7 +194,7 @@ Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked 
 ## Tuesday, September 29, 2020
 * Read the [Spatial Analysis](../spatial-analysis) by class time. 
 * Class agenda:
-	* icebreaker:
+	* icebreaker: (4:30-4:40)
 	* [Activity 6.1](../spatial-analysis/#activity-61)
 	* [Activity 6.2](../spatial-analysis/#activity-62)
 
@@ -212,11 +212,11 @@ Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked 
 1. To complete [Activity 6.3](../spatial-analysis/#activity-63), select a second mapping platform to explore (not the one you looked at in class). In a 300-500 words, answer the questions from Activity 6.3, then provide additional commentary on the differences between this platform and the one you looked at in class. Consider *how* to use the platform and *what* can be created with it. Use the Coeducation Report data set to create a map, then embed it into your post. 
 2. Blog post: Now that we've had more practice reviewing projects, it's time to write your own from scratch! Using the [Reviews in DH](https://reviewsindh.pubpub.org/review-process) Review Content criteria, write a 500 word review of one of the following spatial projects: 
 
-* [Civil War DC](http://civilwardc.org/)
-* [Mapping the Second Klu Klux Klan](https://labs.library.vcu.edu/klan/)
-* [Navigating the Green Book](http://publicdomain.nypl.org/greenbook-map/)
-* [Visualizing Emancipation](http://dsl.richmond.edu/emancipation/)
-* [DECIMA](https://decima-map.net/)
+	* [Civil War DC](http://civilwardc.org/)
+	* [Mapping the Second Klu Klux Klan](https://labs.library.vcu.edu/klan/)
+	* [Navigating the Green Book](http://publicdomain.nypl.org/greenbook-map/)
+	* [Visualizing Emancipation](http://dsl.richmond.edu/emancipation/)
+	* [DECIMA](https://decima-map.net/)
 
 
 
