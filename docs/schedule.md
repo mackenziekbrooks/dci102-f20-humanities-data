@@ -194,9 +194,9 @@ Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked 
 ## Tuesday, September 29, 2020
 * Read the [Spatial Analysis](../spatial-analysis) by class time. 
 * Class agenda:
-	* icebreaker: (4:30-4:40)
-	* [Activity 6.1](../spatial-analysis/#activity-61)
-	* [Activity 6.2](../spatial-analysis/#activity-62)
+	* icebreaker: if money/time/obligations/pandemic were no issue, where would go right now? (4:30-4:40)
+	* [Activity 6.1](../spatial-analysis/#activity-61) 
+	* [Activity 6.2](../spatial-analysis/#activity-62) 
 
 ## Thursday, October 1, 2020
 * read [What is Spatial History?](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29&project_id) and [The Contested Nature of Historical GIS](http://ezproxy.wlu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=iih&AN=91840444&site=ehost-live) by class time.
