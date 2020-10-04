@@ -223,8 +223,8 @@ Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked 
 # Week 7 - Text Analysis 
 
 ## Tuesday, October 6, 2020
-* Read [Text Analysis](../text-analysis.md) by class time. 
-* Print out this [activity packet](../assets/4waystoread-handouts.docx) before class! 
+* Read [Text Analysis](../text-analysis) by class time. 
+* Print out this [activity packet](https://wlu.box.com/s/ahd0wcowv9o3jrrcqp9t9ybst136a60d) before class! 
 * Class agenda:
 	* icebreaker: 
 	* 4 Ways to Read activity (4:40-6)
