@@ -79,10 +79,6 @@ If you're not sure how to answer these questions, why not skip ahead to visualiz
 
 You may determine that your project or your constraints require that you find existing data sources. That's great! You're reusing existing information in new ways! But it can be a struggle to find the exact data set you're looking for. There is not one single catalog of data that you can use to find what you're looking for. You may have to combine pieces of multiple data sets. Alternatively, you may not have access or be legally allowed to use the data you're seeking. It's another reason to identify other scholars working on similar topic, you may be able to ask advice or find guidance. 
 
-Places to look: 
-
-* 
-
 
 ## Analyzing your data 
 
