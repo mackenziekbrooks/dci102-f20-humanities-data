@@ -233,7 +233,8 @@ Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked 
 * Read [Argument Clinic](http://scottbot.net/argument-clinic/) by Scott Weingart 
 * Sign up for a [meeting time on Box](https://wlu.box.com/s/2dukeit9hvyz899v0nqvr67vblurnzka).
 * Class agenda: 
-	* icebreaker: 
+	* icebreaker: comfort book anyone?
+	* Presentation opportunities: [Science, Society, and the Arts](https://my.wlu.edu/ssa-2021) + [Cheakapeake DH Consortium Conference](https://chesapeakedh.github.io/conference-2021.html)
 	* [Activity 7.2](../text-analysis/#activity-72-voyant)
 
 ## Activity log week 7
@@ -241,11 +242,13 @@ Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked 
 **Due Monday 10/12 at 9am**
 
 1. [Activity 7.3](../text-analysis/#activity-73)
-2. Draft your [project proposal](../assignments/#project-proposal) in preparation for next week's individual consults. 
+2. Draft your [project proposal](../assignments/#project-proposal) in preparation for next week's individual consults. This will be your week 7 blog post. It is okay if it is full of questions! If you feel yourself getting stressed out while writing this proposal, please take a break and feeling out the [project feelings form](https://forms.gle/EHhvVGj1UL7Tyc3U7)! It can be anonymous if you want and will help me prep for our meeting.
 
 # Week 8 - Project Planning
 
 We'll schedule individual meetings this week to discuss your project. Sign up for a time [on Box](https://wlu.box.com/s/2dukeit9hvyz899v0nqvr67vblurnzka). 
+
+I recommend reading all of the [Process](../process/) section if you haven't already! 
 
 # Week 9 - Data Modeling
 
