@@ -250,11 +250,23 @@ We'll schedule individual meetings this week to discuss your project. Sign up fo
 
 I recommend reading all of the [Process](../process/) section if you haven't already! 
 
+**Due Monday 10/19 at 9am**
+
+1. Your [final project proposal](../assignments/#project-proposal) is due. 
+2. No blog post!
+
 # Week 9 - Data Modeling
 
 ## Tuesday, October 20, 2020
 
+* Class agenda
+	* icebreaker: 
+	* Project check-in
+	* Data Modeling + Publishing + Licensing
+
 ## Thursday, October 22, 2020
+
+* Open office hours: drop in to ask questions, get feedback, or hang out. 
 
 # Week 10 - Data Analysis + Visualization
 
