@@ -67,10 +67,11 @@ Once you've proposed your project, it's time to get working with your data! This
 * Due Monday, October 26th, at 9am. 
 * No word count requirement, but it should be at least 2-3 pages, if not more. The more detail the better! 
 * Posted to your website in a designated project section. Turn in the link to this page on Canvas.
-* Contains X pieces: 
+* Contains 4 pieces: 
 	* Part 1: Data Model - In this document, you will identify the structure of your data, list all the fields you will be using in your dataset, the format and type of those fields, and the source of the data for those fields. If your project involves a text corpus, you should list the scope and rationale of your corpus, as well as the source of the data. A network analysis project should include an edge list and an attribute table, with details about each attribute. 
 	* Part 2: Data Plan - Describe your process for creating this data set according to your model. Will you be transcribing from a book? Copying from multiple sources? Is there data to be cleaned or transformed? OCR to be done? List the steps in detail. Identify any potential challenges to your plan. 
 	* Part 3: Data License - Under what license will you release this data? How are you crediting your sources? How should others cite your work? Consult [Open Data Commons](https://opendatacommons.org/) or [Creative Commons](creativecommons.org/) for licenses. Feel free to go back through the projects we've looked at already to see how they license their data. 
+	* Part 4: The actual data itself. This should be uploaded to your Wordpress site and linked from your project page, near the data license. It is okay if your data is not complete yet, but you should have an initial draft available. 
 
 
 ### Data Visualization 

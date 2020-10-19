@@ -260,23 +260,50 @@ I recommend reading all of the [Process](../process/) section if you haven't alr
 ## Tuesday, October 20, 2020
 
 * Class agenda
-	* icebreaker: 
-	* Project check-in
-	* Data Modeling + Publishing + Licensing
+	* icebreaker: favorite scary movie? (4:30-4:40)
+	* Project check-in (4:40-4:50)
+		* Data modeling (4:50-5:05)
+		* Data plan (5:05-5:20)
+		* Data license (5:20-5:30)
+	* Wordpress time! (5:30-5:45)
+
 
 ## Thursday, October 22, 2020
 
-* Open office hours: drop in to ask questions, get feedback, or hang out. 
+* Open office hours: drop in to ask questions, get feedback, or hang out. (4:30-5:30pm)
+* Continue to use the [project feelings form](https://docs.google.com/forms/d/e/1FAIpQLScUTvIsFmeCaxZZi2tC6RvmSObOnfqphw7p-9nB84asPNQAJQ/viewform?usp=sf_link) as a place to dump feelings you have about your project! Responses can be anonymous. 
+
+**Due Monday 10/28 at 9am**
+
+1. The [data documentation](../assignments/#data-documentation) assignment should be posted to your course website with the link turned in on Canvas.
+2. Blog post week #9: In 250-300 words, let's have a project update! Address the following questions: what did you get done this week? How did it go? What could have gone better? What lessons did you learn this week? What did you learn that will be useful outside this class? What are your goals for next week?
 
 # Week 10 - Data Analysis + Visualization
 
 ## Tuesday, October 27, 2020
 
+* Open office hours: drop in to ask questions, get feedback, or hang out. (4:30-5:30pm)
+
+**For Thursday:**
+
+* Prepare 1-2 draft visualizations for peer review! Post them to your website so your classmate can view them.
+
 ## Thursday, October 29, 2020
+
+* Class agenda:
+	* icebreaker
+	* visualization peer review
+
+**Due Monday 11/2 at 9am**
+
+1. Drafts of your [data visualizations](../assignments/#data-visualization) are due. Post to your website and turn in the link on Canvas. You might find that after conducting analysis and writing about your results that you need to modify your visualizations. That's fine! Final data visualizations will be due 11/9.
+2. Blog post week #10: In 250-300 words, let's have a project update! Address the following questions: what did you get done this week? How did it go? What could have gone better? What lessons did you learn this week? What did you learn that will be useful outside this class? What are your goals for next week?
 
 # Week 11 - Results + Interpretation
 
 ## Tuesday, November 3, 2020
+
+* VOTE 
 
 ## Thursday, November 5, 2020
 
