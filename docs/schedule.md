@@ -201,7 +201,7 @@ Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked 
 ## Thursday, October 1, 2020
 * read [What is Spatial History?](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29&project_id) and [The Contested Nature of Historical GIS](http://ezproxy.wlu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=iih&AN=91840444&site=ehost-live) by class time.
 * Class agenda:
-	* icebreaker:
+	* icebreaker: guilty pleasure movie (Bryan)
 	* [Activity 6.3](../spatial-analysis/#activity-63)
 
 
@@ -224,33 +224,49 @@ Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked 
 
 ## Tuesday, October 6, 2020
 * Read [Text Analysis](../text-analysis) by class time. 
-* Print out this [activity packet](https://wlu.box.com/s/ahd0wcowv9o3jrrcqp9t9ybst136a60d) before class! 
+* Print out this [activity packet](https://wlu.app.box.com/folder/123798425174) before class! 
 * Class agenda:
-	* icebreaker: 
-	* 4 Ways to Read activity (4:40-6)
+	* icebreaker: favorite hike or outdoor location in Rockbridge county? 
+	* 4 Ways to Read activity (4:45-6)
 
 ## Thursday, October 8, 2020
 * Read [Argument Clinic](http://scottbot.net/argument-clinic/) by Scott Weingart 
+* Sign up for a [meeting time on Box](https://wlu.box.com/s/2dukeit9hvyz899v0nqvr67vblurnzka).
 * Class agenda: 
-	* icebreaker:
-	* [Activity 7.2]
+	* icebreaker: comfort book anyone?
+	* Presentation opportunities: [Science, Society, and the Arts](https://my.wlu.edu/ssa-2021) + [Cheakapeake DH Consortium Conference](https://chesapeakedh.github.io/conference-2021.html)
+	* [Activity 7.2](../text-analysis/#activity-72-voyant)
 
 ## Activity log week 7
 
 **Due Monday 10/12 at 9am**
 
-1. Activity 7.3 
-2. Draft your [project proposal](../assignments/#project-proposal) in preparation for next week's individual consults. 
+1. [Activity 7.3](../text-analysis/#activity-73)
+2. Draft your [project proposal](../assignments/#project-proposal) in preparation for next week's individual consults. This will be your week 7 blog post. It is okay if it is full of questions! If you feel yourself getting stressed out while writing this proposal, please take a break and feeling out the [project feelings form](https://forms.gle/EHhvVGj1UL7Tyc3U7)! It can be anonymous if you want and will help me prep for our meeting.
 
 # Week 8 - Project Planning
 
-We'll schedule individual meetings this week to discuss your project. 
+We'll schedule individual meetings this week to discuss your project. Sign up for a time [on Box](https://wlu.box.com/s/2dukeit9hvyz899v0nqvr67vblurnzka). 
+
+I recommend reading all of the [Process](../process/) section if you haven't already! 
+
+**Due Monday 10/19 at 9am**
+
+1. Your [final project proposal](../assignments/#project-proposal) is due. 
+2. No blog post!
 
 # Week 9 - Data Modeling
 
 ## Tuesday, October 20, 2020
 
+* Class agenda
+	* icebreaker: 
+	* Project check-in
+	* Data Modeling + Publishing + Licensing
+
 ## Thursday, October 22, 2020
+
+* Open office hours: drop in to ask questions, get feedback, or hang out. 
 
 # Week 10 - Data Analysis + Visualization
 
