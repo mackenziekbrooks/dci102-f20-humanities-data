@@ -303,15 +303,36 @@ I recommend reading all of the [Process](../process/) section if you haven't alr
 
 ## Tuesday, November 3, 2020
 
-* VOTE 
+* VOTE
+* Open office hours 
 
 ## Thursday, November 5, 2020
+
+* Open office hours 
+
+**Due Monday 11/9 at 9am** 
+
+1. Your project! The [results](../assignments/#results), final visualizations, and updated data are all due. 
+2. Blog post week #11: In preparation to present your project in class, draft a 5 minute talk. You have an option when turning this in! It can be a blog post or an audio or video file that you turn in via Canvas. It can be hard to say everything you want to say in 5 minutes! Try to address the following: 
+	- What is this project about?
+	- Why did you select this topic?
+	- Where is the data from? What challenges did you face putting it together?
+	- What did you learn about your topic? How did the analysis methods help?
+	- What would you do differently OR what are the future directions of this project?
+
 
 # Week 12 - Wrapping up + Presentation
 
 ## Tuesday, November 10, 2020
 
+* Class agenda: 5 minute project presentations 
+
 ## Thursday, November 12, 2020
 
+* Class agenda: 5 minute project presentations 
 
+
+**Due Friday 11/13 at 11:59pm** 
+
+1. [Course reflection](../assignments/#reflection) is due. Upload to Canvas.
 
