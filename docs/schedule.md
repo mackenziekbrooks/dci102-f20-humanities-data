@@ -335,4 +335,6 @@ I recommend reading all of the [Process](../process/) section if you haven't alr
 **Due Friday 11/13 at 11:59pm** 
 
 1. [Course reflection](../assignments/#reflection) is due. Upload to Canvas.
+2. Blog post #12: In 200-300 words, reflect on the presentations of your classmates. What was impressive? What was unexpected? What was inspiring? As you think about all the projects together, what can you say about data in the humanities? 
+
 

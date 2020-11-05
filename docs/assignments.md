@@ -113,11 +113,12 @@ No project is complete without time taken to reflect on its successes and lesson
 * Due Friday, November 13th, at 11:59pm. 
 * Submit as a document in Canvas. 
 * 500-1000 words. 
-* Address the following: 
-	* What have you learned?
-	* What has been challenging?
-	* Think back to the start of class. How has your relationship with technology changed? What about your conception of data?
-	* If you could do it all again, what would you do differently?
-	* How can you apply the skills of this course in future courses or non-academic endeavors? 
+* Address the following. Your answers should be about the course as a whole, not just your project topic.
+	* What have you learned? Which of these things is most important to you? What did you learn about the material that you didn't expect? What did you learn about yourself?
+	* What has been challenging? Why? 
+	* Think back to the start of class and blog post #1. How has your relationship with technology changed? What about your conception of data? Have you met your own goals for this course? 
+	* Revisit the [objectives](../#course-objectives) for this course. Did we address those objectives?
+	* If you could do it all again, what would you do differently? 
+	* How can you apply the things you learned in this course to future courses or non-academic endeavors? 
 
 
